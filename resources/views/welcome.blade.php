@@ -20,7 +20,7 @@
             }
         </style>
     </head>
-    <h1>Hello World From Laravel v8.X (PHP v7.4.X)”</h1>
+    <h1>Home page</h1>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
             @if (Route::has('login'))
